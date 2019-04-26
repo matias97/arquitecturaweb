@@ -62,7 +62,7 @@ POST /lugares - Crea un nuevo lugar.
 
 POST /users - Crea un nuevo usuario.
 
-POST /users/x/reservas - Crea una nueva reserva para un usuario.
+POST /reservas - Crea una nueva reserva para un usuario.
 
 
 DELETE's:
