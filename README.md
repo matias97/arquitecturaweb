@@ -16,7 +16,7 @@ Lugares: Create, Read, Update, Delete, List, Image. Estos son los diferentes est
 
 Zonas: Create, Read, Update, Delete, List. Estas son las zonas en las que existen canchas para reservar.
 
-Users: Create, Read, Update, Delete, List.
+Users: Create, Read, Update, Delete, List, Image.
 
 Reservas: Create, Read, Update, Delete, List.
 
